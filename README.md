@@ -8,7 +8,7 @@ Most AI projects stop at providing a raw prediction (e.g., "Probability: 0.82").
 
 In production environments, a model's prediction is useless without context. This platform is built on the philosophy that actionable AI requires four pillars:
 
-Prediction: The raw model output. 
+Prediction: The raw model output.  
  
 Confidence: How certain the model is about this specific inference. 
  
