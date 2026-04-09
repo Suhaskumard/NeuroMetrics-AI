@@ -14,7 +14,7 @@ Confidence: How certain the model is about this specific inference.
  
 Data Quality: Is the incoming data reliable, or has it drifted?
 
-Explainability: Why did the model make this decision?
+Explainability: Why did the model make this decision? 
 
 🚀 Core Features
 
