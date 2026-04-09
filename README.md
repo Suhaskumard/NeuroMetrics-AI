@@ -5,7 +5,7 @@ An enterprise-grade, front-end architecture for an AI-Driven Data Quality, Risk,
 Most AI projects stop at providing a raw prediction (e.g., "Probability: 0.82"). This platform bridges the gap between raw machine learning output and Decision Intelligence by calculating composite risk indices, monitoring data ingestion health, and providing interactive SHAP-based explainability.
 
 🧠 The Philosophy: Beyond Simple Predictions
-
+ 
 In production environments, a model's prediction is useless without context. This platform is built on the philosophy that actionable AI requires four pillars:
 
 Prediction: The raw model output.  
